@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicEntrypoint.Generator", "MagicEntrypoint.Generator\MagicEntrypoint.Generator.csproj", "{44392612-F90C-4C21-BD37-39D15D0A0C9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicEntrypoint.Web", "MagicEntrypoint.Web\MagicEntrypoint.Web.csproj", "{C6127D56-2256-4A14-9CB8-C98A547DBC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44392612-F90C-4C21-BD37-39D15D0A0C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44392612-F90C-4C21-BD37-39D15D0A0C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44392612-F90C-4C21-BD37-39D15D0A0C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44392612-F90C-4C21-BD37-39D15D0A0C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6127D56-2256-4A14-9CB8-C98A547DBC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6127D56-2256-4A14-9CB8-C98A547DBC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6127D56-2256-4A14-9CB8-C98A547DBC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6127D56-2256-4A14-9CB8-C98A547DBC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
